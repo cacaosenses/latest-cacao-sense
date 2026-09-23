@@ -1,7 +1,7 @@
 {% liquid
   assign logo = section.settings.logo
   assign logo_alt = section.settings.logo_alt | default: shop.name
-  assign default_logo = 'logo.png' | asset_url
+  assign default_logo = 'logo-transparent.png' | asset_url
   assign header_variant = section.settings.header_variant | default: 'home-header'
   if template.name == 'cart' or template.name == 'product' or template.name == 'collection'
     assign header_variant = 'bg-header'
