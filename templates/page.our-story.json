@@ -1,13 +1,72 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "our_story": {
       "type": "ts-our-story-page",
-      "settings": {}
+      "settings": {
+        "hero_image_alt": "Hands passing a freshly harvested cacao pod",
+        "hero_eyebrow": "Single Origin · Guatemala",
+        "hero_title": "Our Story",
+        "hero_lead": "From ancestral Mayan land in the rainforest of Guatemala.",
+        "intro_rte": "<p>Cacao Senses was born in the tropical rainforest of Guatemala, deep in ancestral lands located six hours from the city, where nature remains largely untouched and generations of agricultural tradition remain alive.</p><p></p><p></p>",
+        "image_1_alt": "A ripe cacao pod held beside ancient Mayan stone carvings",
+        "image_1_caption": "A ripe cacao pod beside the ancient Mayan stones near our farm.",
+        "mid_rte": "<p>We are located in the vicinity of the ancient Mayan archaeological park <strong>Takalik Abaj</strong>, one of the earliest and most important ceremonial and trade centers of Mesoamerica. This sacred site was once a bridge between the Olmec and Mayan civilizations and played a vital role in the development of early cacao culture and trade routes.</p><p>Our farm, <em>Finca El Rosario Quesada</em>, has more than <strong>100 years of history</strong>. Originally established as a <strong>coffee plantation</strong>, the land evolved over time into a farm dedicated to <strong>cacao and macadamia</strong>, preserving its agricultural heritage while embracing crops that thrive naturally in Guatemala’s tropical environment.</p><p>Today, the finca represents the continuity of that history, combining generations of farming knowledge with a deep commitment to cacao, biodiversity, and the preservation of exceptional Guatemalan genetics.</p>",
+        "image_2_alt": "Rainforest rock formations and a spring near the farm",
+        "image_2_caption": "The wild rainforest that surrounds our farm.",
+        "end_rte": "<p>From the farm, volcanoes rise across the horizon. The soil is naturally enriched by centuries of volcanic ash, creating mineral-dense earth that allows plants to flourish and gives our cacao its distinctive, layered flavor profile unlike any other origin.</p><p>The Mayan civilization regarded cacao as sacred, used in ceremony, spiritual rituals, marriages, and rites of passage. Cacao was believed to be a divine gift from the gods. The beans were so valuable they were used as currency, and only royalty and elite members of society had direct access to cacao groves. The Mayans used the entire fruit — fermenting, sun-drying, and toasting the beans — becoming the original cacao and chocolate makers of the world.</p><p><strong>Today, we continue that lineage with reverence, responsibility, and pride.</strong></p>",
+        "mission_image_alt": "Cacao Senses mission",
+        "mission_title": "Our Mission",
+        "mission_rte": "<p>Our mission is to share the power, benefits, and sacred heritage of cacao with the world.</p><p>We are committed to producing the highest quality single-origin cacao using ancient Mayan principles and traditional methods. By honoring ancestral techniques and combining them with careful modern protocols, we keep the tradition alive while making its benefits accessible globally.</p><p>We believe cacao is more than a crop — it is nourishment, ceremony, culture, and connection.</p>",
+        "vision_image_alt": "Cacao Senses vision",
+        "vision_title": "Our Vision",
+        "vision_rte": "<p>Our vision is to bring authentic, single-origin Guatemalan cacao to the world while preserving ancestral knowledge, regenerative farming practices, and community involvement.</p><p>We aim to become a global reference for origin-true cacao, grown with integrity, processed with intention, and shared with purpose — while uplifting local communities and honoring Mayan agricultural wisdom.</p>",
+        "cacao_image_alt": "Single-origin Guatemalan cacao",
+        "cacao_title": "Our Cacao",
+        "cacao_rte": "<p>Our cacao is single origin, grown exclusively on our farm in Guatemala's tropical volcanic region.</p><p>We cultivate seven different cacao varieties on the same land, allowing for biodiversity, resilience, and a layered flavor spectrum. Each variety expresses itself differently depending on micro-soil conditions, elevation, and sun exposure — creating depth and complexity in every harvest.</p><p>The mineral-rich volcanic soil, rainforest climate, and careful cultivation result in cacao that is aromatic, nutrient-dense, and flavor-forward.</p><p>Our cacao is not blended with outside sources. Every bean can be traced back to our farm.</p>",
+        "forest_title": "Reforesting for the Future",
+        "forest_intro": "<p>At Cacao Senses, sustainability is more than a commitment — it is part of how we grow, how we care for the land, and how we envision the future of cacao in Guatemala.</p>",
+        "stat_value": "150,000+",
+        "stat_label": "Trees Planted",
+        "stat_text": "More than 150,000 Torelliana trees have been planted as part of our ongoing reforestation efforts in Guatemala.",
+        "forest_image_alt": "The forest reserve on our farm",
+        "forest_rte": "<p>Each tree represents another step toward creating healthier, greener, and more resilient landscapes. As these trees grow, they help restore vegetation, protect soils from erosion, improve water retention, provide natural shade, support biodiversity, and create habitat and shelter for wildlife.</p><p>Trees also play an important role in capturing carbon from the atmosphere and helping regulate the surrounding microclimate. Together, these benefits make reforestation an essential part of building stronger and more balanced ecosystems.</p><p>But for us, the impact goes beyond the number of trees planted. It is about restoring the natural balance of the land and helping ensure that agriculture can coexist with the forests, wildlife, soil, and water systems that make these regions thrive.</p>",
+        "forest_2_image_alt": "Aerial view of cacao growing among forest",
+        "eco_title": "Protecting the Ecosystem Around Our Cacao",
+        "eco_rte": "<p>Healthy cacao begins with a healthy environment.</p><p>The forests and vegetation surrounding our agricultural areas contribute to the overall health of the ecosystem by protecting the soil, supporting natural water cycles, providing shade, and creating spaces where plants, insects, birds, and other wildlife can coexist.</p><p>By combining cacao cultivation with meaningful reforestation, we are working toward a landscape where productive agriculture and environmental conservation grow together.</p><p><strong>Our goal is simple: to leave the land stronger, greener, and more resilient than we found it.</strong></p>",
+        "purpose_title": "Growing With Purpose",
+        "purpose_rte": "<p>For us, producing premium cacao carries a responsibility that extends far beyond the cacao tree itself.</p><p>It means caring for the soil beneath our crops, protecting the ecosystems surrounding them, restoring trees to the landscape, and thinking about the generations that will depend on these natural resources in the future.</p><p>When you choose Cacao Senses, you are supporting a vision of cacao rooted not only in quality and tradition, but also in a genuine commitment to the land where it begins.</p><p><strong>More than 150,000 trees planted. One growing commitment to Guatemala's forests, ecosystems, and future.</strong></p>",
+        "closing_text": "Growing cacao. Restoring forests. Protecting ecosystems. Building a more sustainable future.",
+        "cta_title": "Taste the Heritage",
+        "cta_text": "Discover our range of premium single-origin cacao products.",
+        "cta_label": "Shop Our Products",
+        "cta_link": ""
+      }
     },
     "newsletter": {
       "type": "ts-newsletter",
-      "settings": {}
+      "settings": {
+        "kicker": "Stay Connected",
+        "title_plain": "Join the",
+        "title_accent": "Inner Circle",
+        "text": "Get 10% off your first order, exclusive drops, and stories from the world of premium cocoa.",
+        "placeholder": "Enter your email address",
+        "button_label": "Subscribe",
+        "success_message": "Thanks for subscribing!",
+        "note": "No spam, ever. Unsubscribe anytime. Join 50,000+ cocoa lovers."
+      }
     }
   },
-  "order": ["our_story", "newsletter"]
+  "order": [
+    "our_story",
+    "newsletter"
+  ]
 }

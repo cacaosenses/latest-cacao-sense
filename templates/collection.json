@@ -1,8 +1,41 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "ts-main-collection",
-      "settings": {}
+      "settings": {
+        "show_banner": true,
+        "banner_alt": "Cacao Senses product range",
+        "banner_eyebrow": "",
+        "banner_heading": "Many \nWays\nto Taste\nCacao",
+        "banner_sub": "Single-origin. Nothing added.",
+        "show_goodfor": true,
+        "goodfor_title": "Good for",
+        "goodfor_names": "Ceremonial Drink,Chocolate Ganache,Energy Granola,Cacao Husk Tea,Whipped Body Balm,Trail Mix",
+        "g1_eyebrow": "",
+        "g1_heading": "White Bean Premium",
+        "g1_accent": "Collection",
+        "g1_sub": "From raw whole beans to refined cacao butter — every form of pure cacao you need, all in one place.",
+        "g1_handles": "cacao-beans,cacao-nibs,cacao-wafers,cacao-tea",
+        "show_sticker": true,
+        "sticker_alt": "Specialty White Cacao Beans",
+        "g2_eyebrow": "",
+        "g2_heading": "Specialty",
+        "g2_accent": "Collection",
+        "g2_sub": "",
+        "g2_handles": "cacao-powder,cacao-beans,cacao-nibs,cacao-butter,cacao-wafers,cacao-tea",
+        "view_all_label": "View All Products",
+        "view_all_link": "",
+        "note": "Every product is 100% pure cacao — no additives, no fillers, no sugar. Get in touch for availability and bulk enquiries."
+      }
     }
   },
   "order": [

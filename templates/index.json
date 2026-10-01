@@ -48,8 +48,9 @@
         "stat_4"
       ],
       "settings": {
+        "products_image_alt": "The full Cacao Senses product range",
         "show_next": false,
-        "image_alt": "Premium cocoa",
+        "next_label": "Next",
         "trust_text": "Trusted by 5000+ customers",
         "eyebrow": "Premium Cacao Products",
         "title_line_1": "Rooted in the Soil, Crafted by Nature,",
@@ -71,7 +72,8 @@
         "show_controls": true,
         "autoplay": false,
         "loop": false,
-        "placeholder_text": "Add your video in the theme editor"
+        "placeholder_text": "Add your video in the theme editor",
+        "start_collapsed": true
       }
     },
     "ts_marquee": {
@@ -83,13 +85,12 @@
     "ts_product_grid": {
       "type": "ts-product-grid",
       "settings": {
-        "collection": "frontpage",
-        "products_to_show": 12,
-        "kicker": "Full Range",
+        "kicker": "",
         "title_line_1": "Complete Cacao",
         "title_line_2": "Collection",
         "subtitle": "From raw whole beans to refined cacao butter — every form of pure cacao you need, all in one place.",
-        "empty_message": "Create a collection in Shopify (e.g. “All”) and assign it here in the theme editor to show your catalog."
+        "show_view_all": true,
+        "view_all_label": "View All Products"
       }
     },
     "ts_story": {
@@ -127,7 +128,7 @@
       ],
       "settings": {
         "image_alt": "Cocoa origin",
-        "float_1_value": "127+",
+        "float_1_value": "100+",
         "float_1_label": "Years of Tradition",
         "float_2_value": "100%",
         "float_2_label": "Pure Cocoa",

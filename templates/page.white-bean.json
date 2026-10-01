@@ -1,7 +1,47 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "white_bean": { "type": "ts-white-bean-page", "settings": {} },
-    "newsletter": { "type": "ts-newsletter", "settings": {} }
+    "white_bean": {
+      "type": "ts-white-bean-page",
+      "settings": {
+        "hero_alt": "White Cacao Bean Premium Collection",
+        "show_badge": true,
+        "badge_alt": "Premium White Beans",
+        "intro_heading": "What makes it",
+        "intro_accent": "special",
+        "intro_text": "Our rare white cacao is unlike conventional cacao because of its exceptionally pure and carefully preserved genetics. Only a very small number of cacao producers in the world are believed to have access to this rare genetic lineage. \n\n\nWe are proud to have protected and preserved this remarkable cacao for generations, maintaining a living genetic connection to ancient Mayan cacao with minimal crossing or mixing with modern cacao varieties. Its naturally white seeds are one of the most visible signs of what makes this cacao so distinctive, rare, and historically important.\nThis unique cacao has been carefully protected and propagated through generations, preserving a lineage connected to the ancestral cacao traditions of the Maya.\n\nUnlike conventional cacao beans, which typically have darker purple or brown interiors, these remarkable cacao seeds are naturally white, giving this variety a distinctive appearance, flavor profile, and heritage. Its rarity, preserved genetics, and connection to ancient Mayan cultivation make it an exceptional example of heirloom Guatemalan cacao, and Cacao Senses is proud to help preserve this extraordinary genetic legacy for future generations.",
+        "shop_heading": "Shop the collection",
+        "product_handles": "cacao-beans,cacao-nibs,cacao-wafers,cacao-tea",
+        "show_strip": true,
+        "strip_heading": "Taste the Heritage",
+        "strip_keys": "powder,wafers,nibs,tea,butter",
+        "strip_names": "Ceremonial Drink,Chocolate Ganache,Energy Granola,Cacao Husk Tea,Whipped Body Balm"
+      }
+    },
+    "newsletter": {
+      "type": "ts-newsletter",
+      "settings": {
+        "kicker": "Stay Connected",
+        "title_plain": "Join the",
+        "title_accent": "Inner Circle",
+        "text": "Get 10% off your first order, exclusive drops, and stories from the world of premium cocoa.",
+        "placeholder": "Enter your email address",
+        "button_label": "Subscribe",
+        "success_message": "Thanks for subscribing!",
+        "note": "No spam, ever. Unsubscribe anytime. Join 50,000+ cocoa lovers."
+      }
+    }
   },
-  "order": ["white_bean", "newsletter"]
+  "order": [
+    "white_bean",
+    "newsletter"
+  ]
 }
