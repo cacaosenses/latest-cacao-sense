@@ -13,6 +13,7 @@
       "type": "ts-main-collection",
       "settings": {
         "show_banner": true,
+        "banner_image": "shopify://shop_images/WhatsApp_Image_2026-10-01_at_11.58.58.jpg",
         "banner_alt": "Cacao Senses product range",
         "banner_eyebrow": "",
         "banner_heading": "Many \nWays\nto Taste\nCacao",
