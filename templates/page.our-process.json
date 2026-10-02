@@ -11,12 +11,32 @@
   "sections": {
     "our_process": {
       "type": "ts-our-process-page",
-      "settings": {}
+      "settings": {
+        "hero_image": "shopify://shop_images/WhatsApp_Image_2026-10-01_at_13.18.16.jpg",
+        "hero_image_alt": "Cacao drying racks at Cacao Senses",
+        "hero_eyebrow": "Single Origin · Guatemala",
+        "hero_title": "Our Process",
+        "hero_lead": "From beginning to end.",
+        "intro_heading": "From Seed to Your Table",
+        "intro_rte": "<p>Every cacao product begins with a single seed and a commitment to preserving the ancestral way of cultivating cacao.</p><p>At Cacao Senses, every step of our process is done with intention. We germinate each cacao plant by hand, carefully nurture every tree, and harvest each pod at peak ripeness to ensure the highest quality from the very beginning.</p>"
+      }
     },
     "newsletter": {
       "type": "ts-newsletter",
-      "settings": {}
+      "settings": {
+        "kicker": "Stay Connected",
+        "title_plain": "Join the",
+        "title_accent": "Inner Circle",
+        "text": "Get 10% off your first order, exclusive drops, and stories from the world of premium cocoa.",
+        "placeholder": "Enter your email address",
+        "button_label": "Subscribe",
+        "success_message": "Thanks for subscribing!",
+        "note": "No spam, ever. Unsubscribe anytime. Join 50,000+ cocoa lovers."
+      }
     }
   },
-  "order": ["our_process", "newsletter"]
+  "order": [
+    "our_process",
+    "newsletter"
+  ]
 }
