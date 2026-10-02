@@ -1,13 +1,54 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "origins": {
       "type": "ts-origins-page",
-      "settings": {}
+      "settings": {
+        "hero_alt": "Cacao beans drying",
+        "hero_pre": "",
+        "hero_title": "WHOLESALE",
+        "band_title": "Made for Chocolate Makers",
+        "band_sub": "Bulk Sizes  Available in: 44 lb bags (20 kg). 100 lb bags (45.4 kg)",
+        "body_rte": "<p>Our goal is simple:&nbsp;give U.S. businesses direct access to exceptional Guatemalan cacao, already imported and ready for distribution from Tennessee.</p><p><strong>Available in:</strong></p><p><strong>44 lb bags (20 kg)<br/>100 lb bags (45.4 kg)</strong></p><p>Our whole cacao beans are imported directly from our farm in Guatemala and are already stocked in Tennessee, making it easier for U.S. businesses to purchase premium cacao without managing international importing.</p><p>By managing our own sourcing, importing, packing, and distribution, Cacao Senses is able to offer direct access to our cacao with dependable U.S. inventory and competitive wholesale pricing.</p>",
+        "sacks_alt": "Sacks of specialty Guatemalan cacao",
+        "farm_1_name": "Rosario Quezada",
+        "farm_1_place": "Coatepeque, Quetzaltenango",
+        "farm_1_link": "",
+        "farm_2_name": "Ana María",
+        "farm_2_place": "Lachuá, Cobán",
+        "farm_2_link": "",
+        "farm_link_label": "Learn more",
+        "cta_label": "Enquire About Cacao Orders",
+        "cta_link": "",
+        "cta_note": "Minimum order quantity: 44 lbs",
+        "us_heading": "Cacao Available in the U.S.",
+        "us_text": "Our cacao is grown exclusively in Guatemala and carefully managed from harvest through fermentation, drying, packing, and shipment. Each lot is fully traceable and produced to deliver the consistency, flavor, and character professional chocolate makers expect.Whether you are purchasing 44 pounds or building toward larger-volume orders."
+      }
     },
     "newsletter": {
       "type": "ts-newsletter",
-      "settings": {}
+      "settings": {
+        "kicker": "Stay Connected",
+        "title_plain": "Join the",
+        "title_accent": "Inner Circle",
+        "text": "Get 10% off your first order, exclusive drops, and stories from the world of premium cocoa.",
+        "placeholder": "Enter your email address",
+        "button_label": "Subscribe",
+        "success_message": "Thanks for subscribing!",
+        "note": "No spam, ever. Unsubscribe anytime. Join 50,000+ cocoa lovers."
+      }
     }
   },
-  "order": ["origins", "newsletter"]
+  "order": [
+    "origins",
+    "newsletter"
+  ]
 }

@@ -17,7 +17,7 @@
           "settings": {
             "style": "email",
             "label": "Email Us",
-            "value": "hello@cacaosense.com",
+            "value": "ORDERS@CACAOSENSES.COM",
             "sub": "We reply within 24 hours"
           }
         },
@@ -26,7 +26,7 @@
           "settings": {
             "style": "phone",
             "label": "Call Us",
-            "value": "+1 (800) 123-4567",
+            "value": "(901) 860 8302",
             "sub": "Mon–Fri, 9am–6pm EST"
           }
         },
@@ -35,7 +35,7 @@
           "settings": {
             "style": "map",
             "label": "Our Warehouse",
-            "value": "128 Cacao Lane, New York, NY 10001",
+            "value": "Nashville, Tennessee",
             "sub": "United States"
           }
         },
@@ -101,6 +101,7 @@
         "hero_lead": "Questions about our cacao products, wholesale inquiries, or just want to share your love for cacao? Our team is here.",
         "form_title": "Send a message",
         "form_subtitle": "Fill out the form and our team will respond within 24 hours.",
+        "bulk_note": "Note: Bulk cocoa orders require a minimum quantity of 44 lbs.",
         "faq_title": "Frequently Asked Questions"
       }
     }
