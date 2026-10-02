@@ -19,7 +19,8 @@
             "category": "Heritage",
             "read_time": "6 min read",
             "title": "From Bean to Bliss: The 127-Year Journey of Cacao Senses",
-            "excerpt": "Behind every product is a story that began over a century ago in the fertile highlands of Guatemala. Discover how generations of farming tradition, sustainable land stewardship, and an uncompromising commitment to purity shaped the cacao you taste today — from family-owned farms to your table."
+            "excerpt": "Behind every product is a story that began over a century ago in the fertile highlands of Guatemala. Discover how generations of farming tradition, sustainable land stewardship, and an uncompromising commitment to purity shaped the cacao you taste today — from family-owned farms to your table.",
+            "url": ""
           }
         },
         "b2": {
@@ -29,7 +30,8 @@
             "category": "Education",
             "read_time": "5 min read",
             "title": "Why Single-Origin Cacao Tastes Different (And Better)",
-            "excerpt": "\"Single-origin\" is more than a label — it's terroir in a bean. We break down how the volcanic soil, high altitude and tropical climate of the Guatemalan highlands give our cacao its distinct flavour notes, and why blended commercial cacao loses the very character that makes pure cacao extraordinary."
+            "excerpt": "\"Single-origin\" is more than a label — it's terroir in a bean. We break down how the volcanic soil, high altitude and tropical climate of the Guatemalan highlands give our cacao its distinct flavour notes, and why blended commercial cacao loses the very character that makes pure cacao extraordinary.",
+            "url": ""
           }
         },
         "b3": {
@@ -39,7 +41,8 @@
             "category": "Wellness",
             "read_time": "7 min read",
             "title": "The Superfood Science: 6 Reasons Cacao Belongs in Your Daily Ritual",
-            "excerpt": "With 40× the antioxidants of blueberries, natural mood-lifting compounds, and crash-free energy from theobromine, raw cacao is one of the most nutrient-dense foods on earth. Here's the science behind the heart health, magnesium, and serotonin benefits that make cacao a true superfood."
+            "excerpt": "With 40× the antioxidants of blueberries, natural mood-lifting compounds, and crash-free energy from theobromine, raw cacao is one of the most nutrient-dense foods on earth. Here's the science behind the heart health, magnesium, and serotonin benefits that make cacao a true superfood.",
+            "url": ""
           }
         },
         "b4": {
@@ -49,7 +52,8 @@
             "category": "Education",
             "read_time": "4 min read",
             "title": "Cacao vs. Cocoa: What's the Real Difference?",
-            "excerpt": "They sound the same, but the processing tells two very different stories. Learn why raw, cold-processed cacao retains nutrients that high-heat cocoa destroys — and how to know which one you're really buying."
+            "excerpt": "They sound the same, but the processing tells two very different stories. Learn why raw, cold-processed cacao retains nutrients that high-heat cocoa destroys — and how to know which one you're really buying.",
+            "url": ""
           }
         },
         "b5": {
@@ -59,7 +63,8 @@
             "category": "Craft",
             "read_time": "5 min read",
             "title": "Inside Our Small-Batch Stone-Grinding Process",
-            "excerpt": "Most chocolate is rushed through high-speed machines. We slow everything down. Step inside our small-batch craft — from hand-harvested pods to natural fermentation, slow sun-drying, and traditional granite stone-grinding — and discover why patience and purity go hand in hand."
+            "excerpt": "Most chocolate is rushed through high-speed machines. We slow everything down. Step inside our small-batch craft — from hand-harvested pods to natural fermentation, slow sun-drying, and traditional granite stone-grinding — and discover why patience and purity go hand in hand.",
+            "url": ""
           }
         },
         "b6": {
@@ -69,7 +74,8 @@
             "category": "Lifestyle",
             "read_time": "4 min read",
             "title": "5 Morning Rituals to Transform Your Day with Cacao",
-            "excerpt": "From ceremonial cacao drinks to nib-packed breakfast bowls, discover simple ways to weave pure cacao into your morning for sustained energy, focus, and a moment of calm before the day begins."
+            "excerpt": "From ceremonial cacao drinks to nib-packed breakfast bowls, discover simple ways to weave pure cacao into your morning for sustained energy, focus, and a moment of calm before the day begins.",
+            "url": ""
           }
         },
         "b7": {
@@ -79,7 +85,8 @@
             "category": "Sustainability",
             "read_time": "6 min read",
             "title": "Sustainability at the Source: How We Farm Without Compromise",
-            "excerpt": "Owning our farms means owning our impact. Explore how ethical harvesting, regenerative practices, and direct partnerships with farming communities make Cacao Senses a brand you can feel good about — from highland soil to sealed pouch."
+            "excerpt": "Owning our farms means owning our impact. Explore how ethical harvesting, regenerative practices, and direct partnerships with farming communities make Cacao Senses a brand you can feel good about — from highland soil to sealed pouch.",
+            "url": ""
           }
         },
         "b8": {
@@ -89,21 +96,44 @@
             "category": "Lifestyle",
             "read_time": "4 min read",
             "title": "Beyond the Kitchen: Surprising Ways to Use Cacao Butter",
-            "excerpt": "Cacao butter isn't just for baking. From whipped body balms to lip care and natural moisturisers, discover why this cold-pressed, food-grade ingredient is a luxury your skincare routine has been missing."
+            "excerpt": "Cacao butter isn't just for baking. From whipped body balms to lip care and natural moisturisers, discover why this cold-pressed, food-grade ingredient is a luxury your skincare routine has been missing.",
+            "url": ""
           }
         }
       },
-      "block_order": ["b1", "b2", "b3", "b4", "b5", "b6", "b7", "b8"],
+      "block_order": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
       "settings": {
-        "hero_eyebrow": "Journal",
-        "hero_title": "The Cacao Journal",
+        "hero_image_alt": "The Cacao Journal",
+        "hero_eyebrow": "",
+        "hero_title": "The Cacao Blog",
         "subtext": "Stories, science and rituals from the world of pure single-origin cacao. Explore the heritage behind every bean, the benefits behind every sip, and the craft behind every batch."
       }
     },
     "newsletter": {
       "type": "ts-newsletter",
-      "settings": {}
+      "settings": {
+        "kicker": "Stay Connected",
+        "title_plain": "Join the",
+        "title_accent": "Inner Circle",
+        "text": "Get 10% off your first order, exclusive drops, and stories from the world of premium cocoa.",
+        "placeholder": "Enter your email address",
+        "button_label": "Subscribe",
+        "success_message": "Thanks for subscribing!",
+        "note": "No spam, ever. Unsubscribe anytime. Join 50,000+ cocoa lovers."
+      }
     }
   },
-  "order": ["blog", "newsletter"]
+  "order": [
+    "blog",
+    "newsletter"
+  ]
 }
