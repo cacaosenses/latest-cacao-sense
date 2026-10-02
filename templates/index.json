@@ -271,6 +271,7 @@
             "step_number": "01",
             "title": "Ethically Harvested",
             "text": "Ripe cacao pods are hand-picked at peak perfection on our own farms in the highlands of Guatemala.",
+            "image": "shopify://shop_images/AVI09560_CACAO_SENSES_2026_By_Cien_Pies_Estudio.jpg",
             "image_url": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=600&q=80"
           }
         },
@@ -289,6 +290,7 @@
             "step_number": "03",
             "title": "Packed & Shipped Fresh",
             "text": "Sealed for freshness and carefully packed to preserve the natural flavor and quality of our cacao, then shipped directly to you.",
+            "image": "shopify://shop_images/7987255bbceca63adb9ca82c57fb25739c6977cb6ba0dadcfa94cb923fdad32f.png",
             "image_url": "https://media.base44.com/images/public/69d4488a5dfc8f6017add6a5/d5ad83e23_generated_image.png"
           }
         }
