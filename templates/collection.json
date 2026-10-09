@@ -11,6 +11,11 @@
   "sections": {
     "main": {
       "type": "ts-main-collection",
+      "custom_css": [
+        ".ts-btn-outline {background-color: #4B2E24; color: #FFFFFF; border-color: #4B2E24; display: inline-block; transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;}",
+        ".ts-btn-outline:hover {transform: scale(1.05); background-color: #704536; color: #FFF3E6; border-color: #704536;}",
+        "@media (prefers-reduced-motion: reduce) {.ts-btn-outline {transition: none; } .ts-btn-outline:hover {transform: none; }}"
+      ],
       "settings": {
         "show_banner": true,
         "banner_image": "shopify://shop_images/WhatsApp_Image_2026-10-01_at_11.58.58.jpg",
