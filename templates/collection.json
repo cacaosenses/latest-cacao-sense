@@ -11,6 +11,11 @@
   "sections": {
     "main": {
       "type": "ts-main-collection",
+      "custom_css": [
+        ".ts-btn-outline {background-color: #4b2e24; color: #ffffff; border-color: #4b2e24; display: inline-block; transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;}",
+        ".ts-btn-outline:hover {transform: scale(1.05); background-color: #704536; color: #fff3e6; border-color: #704536;}",
+        "@media (prefers-reduced-motion: reduce) {.ts-btn-outline {transition: none; } .ts-btn-outline:hover {transform: none; }}"
+      ],
       "settings": {
         "show_banner": true,
         "banner_image": "shopify://shop_images/WhatsApp_Image_2026-10-01_at_11.58.58.jpg",
@@ -19,22 +24,22 @@
         "banner_heading": "Many \nWays\nto Taste\nCacao",
         "banner_sub": "Single-origin. Nothing added.",
         "show_goodfor": true,
-        "goodfor_title": "Good for",
+        "goodfor_title": "Check our recipes!",
         "goodfor_names": "Ceremonial Drink,Chocolate Ganache,Energy Granola,Cacao Husk Tea,Whipped Body Balm,Trail Mix",
         "g1_eyebrow": "",
-        "g1_heading": "White Bean Premium",
+        "g1_heading": "Specialty",
         "g1_accent": "Collection",
-        "g1_sub": "From raw whole beans to refined cacao butter — every form of pure cacao you need, all in one place.",
-        "g1_handles": "cacao-beans,cacao-nibs,cacao-wafers,cacao-tea",
-        "show_sticker": true,
-        "sticker_alt": "Specialty White Cacao Beans",
+        "g1_sub": "",
+        "g1_handles": "cacao-powder,cacao-beans,cacao-nibs,cacao-butter,cacao-wafers,cacao-tea",
+        "show_sticker": false,
+        "sticker_alt": "",
         "g2_eyebrow": "",
-        "g2_heading": "Specialty",
+        "g2_heading": "White Bean Premium",
         "g2_accent": "Collection",
-        "g2_sub": "",
-        "g2_handles": "cacao-powder,cacao-beans,cacao-nibs,cacao-butter,cacao-wafers,cacao-tea",
-        "view_all_label": "View All Products",
-        "view_all_link": "",
+        "g2_sub": "From raw whole beans to refined cacao butter — every form of pure cacao you need, all in one place.",
+        "g2_handles": "cacao-beans,cacao-nibs,cacao-wafers,cacao-tea",
+        "view_all_label": "¿Looking for Bulk? Visit our Wholesale page here",
+        "view_all_link": "shopify://pages/wholesale",
         "note": "Every product is 100% pure cacao — no additives, no fillers, no sugar. Get in touch for availability and bulk enquiries."
       }
     }
