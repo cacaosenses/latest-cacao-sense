@@ -5332,11 +5332,12 @@ body.ts-body {
 
 .ts-origins__hero-title {
   font-family: var(--ts-font-display);
-  font-size: clamp(2.4rem, 7vw, 5.5rem);
-  font-weight: 400;
-  letter-spacing: 0.22em;
-  line-height: 1;
-  text-indent: 0.22em;
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.5);
 }
 
 .ts-origins__band {
