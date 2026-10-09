@@ -47,6 +47,7 @@
         "stat_3",
         "stat_4"
       ],
+      "custom_css": [],
       "settings": {
         "products_image_alt": "The full Cacao Senses product range",
         "show_next": false,
@@ -84,6 +85,10 @@
     },
     "ts_product_grid": {
       "type": "ts-product-grid",
+      "custom_css": [
+        ".ts-cat-tile__badge {display: none !important;}",
+        ".ts-cat-tile__stars {display: none !important;}"
+      ],
       "settings": {
         "kicker": "",
         "title_line_1": "Complete Cacao",
