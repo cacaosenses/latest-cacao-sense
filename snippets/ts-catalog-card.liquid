@@ -11,6 +11,7 @@
     net_wt      - e.g. '8oz (227g)'
     servings    - e.g. '38 servings (1 tsp / 6g)'
     ingredients - e.g. '100% Pure Cacao (Theobroma cacao)'
+    badge       - corner badge, e.g. 'Zero Sugar'
     cta_label   - button text (omit to hide the button)
     cta_url     - button link
 
@@ -19,10 +20,13 @@
 
 <article class="ts-catalog-card">
   <div class="ts-catalog-card__media">
-  {% if image != blank %}
-    <img src="{{ image | asset_url }}" alt="{{ name | escape }} pack" loading="lazy">
-  {% endif %}
-</div>
+    {% if image != blank %}
+      <img src="{{ image | asset_url }}" alt="{{ name | escape }} pack" loading="lazy">
+    {% endif %}
+    {% if badge != blank %}
+      <span class="ts-catalog-card__badge">{{ badge }}</span>
+    {% endif %}
+  </div>
 
   <div class="ts-catalog-card__body">
     {% if origin != blank %}
