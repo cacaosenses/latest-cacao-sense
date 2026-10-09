@@ -14,7 +14,9 @@
       "custom_css": [
         ".ts-btn-outline {background-color: #4b2e24; color: #ffffff; border-color: #4b2e24; display: inline-block; transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;}",
         ".ts-btn-outline:hover {transform: scale(1.05); background-color: #704536; color: #fff3e6; border-color: #704536;}",
-        "@media (prefers-reduced-motion: reduce) {.ts-btn-outline {transition: none; } .ts-btn-outline:hover {transform: none; }}"
+        "@media (prefers-reduced-motion: reduce) {.ts-btn-outline {transition: none; } .ts-btn-outline:hover {transform: none; }}",
+        ".ts-cat-tile__badge {display: none !important;}",
+        ".ts-cat-tile__stars {display: none !important;}"
       ],
       "settings": {
         "show_banner": true,
