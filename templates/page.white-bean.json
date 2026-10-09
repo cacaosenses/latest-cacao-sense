@@ -12,7 +12,8 @@
     "white_bean": {
       "type": "ts-white-bean-page",
       "custom_css": [
-        ".ts-cat-tile__badge {display: none !important;}"
+        ".ts-cat-tile__badge {display: none !important;}",
+        ".ts-cat-tile__stars {display: none !important;}"
       ],
       "settings": {
         "hero_alt": "White Cacao Bean Premium Collection",
