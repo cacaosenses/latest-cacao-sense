@@ -20,13 +20,10 @@
 
 <article class="ts-catalog-card">
   <div class="ts-catalog-card__media">
-    {% if image != blank %}
-      <img src="{{ image | asset_url }}" alt="{{ name | escape }} pack" loading="lazy">
-    {% endif %}
-    {% if badge != blank %}
-      <span class="ts-catalog-card__badge">{{ badge }}</span>
-    {% endif %}
-  </div>
+  {% if image != blank %}
+    <img src="{{ image | asset_url }}" alt="{{ name | escape }} pack" loading="lazy">
+  {% endif %}
+</div>
 
   <div class="ts-catalog-card__body">
     {% if origin != blank %}
