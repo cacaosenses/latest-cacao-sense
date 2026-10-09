@@ -47,8 +47,8 @@
         "stat_3",
         "stat_4"
       ],
-      "custom_css": [],
       "settings": {
+        "image_products": "shopify://shop_images/Screenshot_2026-10-09_at_3.30.31_PM.png",
         "products_image_alt": "The full Cacao Senses product range",
         "show_next": false,
         "next_label": "Next",
